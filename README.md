@@ -1,2 +1,2 @@
-# GESA
-Gestão Empresarial de Sistema Automatizado
+# SAG
+Sistema Automatizado de Gestão
